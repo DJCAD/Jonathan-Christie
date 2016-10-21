@@ -1,0 +1,2 @@
+Sock on the Door, This is a system of communication between flatmates. An RGB led
+With a switch is placed on the door to allow the user/owner of the room to communicate whether they are busy (Do not Enter) RED. Busy (but can be disturbed)BLUE or (Feel Free to Enter)GREEN. The user switches the light to their desired state.
